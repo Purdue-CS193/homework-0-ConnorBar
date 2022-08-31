@@ -1,5 +1,14 @@
 ## Welcome to GitHub Pages
 
+# Connor Barnsley's First CS1932 Homework
+- Learning to use practical applications like GitHub and Terminal
+- Homework is not overbearing
+- Taught by other students
+- Isn't CS 191
+
+
+
+
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -8,7 +17,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-#Resources
+# Resources
 - [Brightspace](https://purdue.brightspace.com/d2l/login)
 - [Piazza](https://piazza.com/class/l6ustk5bu9e3x1/post/6)
 - [Ed](https://edstem.org/us/login?redirect=%2Fus%2Fcourses%2F25153%2Fdiscussion%2F&auth=1)
